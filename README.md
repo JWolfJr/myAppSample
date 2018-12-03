@@ -1,2 +1,2 @@
-#myApp
-This is my app
+#MyApp
+This is my app from Traversy Media tutorial.
